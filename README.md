@@ -1,4 +1,4 @@
-# Toontown Landwalker Archive By Luca
+# Toontown Landwalker Archive By Liliana
 Most of these scripts have been forgotten to the passage of time, never to be remembered.
 
 I initially modified (stolen) scripts I made (stole) back in 2018 (from PasteBin) to make a gift (a modified version of Toontown) for my cousin from France. All the way when I was a 13 year old with an obsession for Toontown!
